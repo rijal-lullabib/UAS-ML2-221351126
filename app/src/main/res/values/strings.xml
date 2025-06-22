@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Student Predictor</string>
+
+    <string-array name="schools">
+        <item>GP</item> <item>MS</item> </string-array>
+
+    <string-array name="genders">
+        <item>F</item> <item>M</item> </string-array>
+    <string name="studen_prediction">STUDEN PREDICTION</string>
+    <string name="splash_description">Membuat prediksi berdasarkan kriteria.</string>
+    <string name="content_description_app_logo">Logo aplikasi Student Predictor</string>
+    <string name="hint_age">Usia siswa</string>
+    <string name="hint_study_time">Jam belajar mingguan</string>
+    <string name="hint_failures">Jumlah kegagalan sebelumnya</string>
+    <string name="hint_g1">Nilai periode pertama</string>
+    <string name="hint_g2">Nilai periode kedua</string>
+    <string name="hint_g3">Nilai akhir (jika diketahui)</string>
+    <string name="dikembangkan_oleh_raden_rijal_lullabib">Dikembangkan oleh: [Raden Rijal Lullabib]</string>
+    <string name="informasi_aplikasi">Informasi Aplikasi</string>
+
+</resources>
